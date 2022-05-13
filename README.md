@@ -21,3 +21,49 @@ You can click the Preview link to take a look at your changes.
 </p>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+<div class="body"> 
+    <div class="container skills-bar-container">
+
+        <div class="skill-box">
+            <span class="title-md skill-title">HTML</span>
+            
+            <div class="skill-bar">
+                <span class="skill-per skill-per-1">
+                    <span class="tooltip skill-tooltip">90%</span>
+                </span>
+            </div>
+        </div>
+        
+
+        <div class="skill-box">
+            <span class="title-md skill-title">CSS</span>
+            
+            <div class="skill-bar">
+                <span class="skill-per skill-per-2">
+                    <span class="tooltip skill-tooltip">80%</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="skill-box">
+            <span class="title-md skill-title">Java Script</span>
+            
+            <div class="skill-bar">
+                <span class="skill-per skill-per-3">
+                    <span class="tooltip skill-tooltip">70%</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="skill-box">
+            <span class="title-md skill-title">Node JS</span>
+            
+            <div class="skill-bar">
+                <span class="skill-per skill-per-4">
+                    <span class="tooltip skill-tooltip">55%</span>
+                </span>
+            </div>
+        </div>
+
+    </div>
+</div>
