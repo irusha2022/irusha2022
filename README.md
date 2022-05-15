@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on [**PCZoneLk.**](github.com/irusha)
 - 🌱 I’m currently learning **Java Script.**
 - 💬 Ask me about **anything, I am happy to help.**
-- 👨‍💻 All of my projects are available at *www.irusha.ml*
 - 📫 How to reach me **irusha2022@gmail.com**
 - ⚡ Fun fact **still Student.**
+<!-- - 👨‍💻 All of my projects are available at *www.irusha.ml* -->
 
 ## 🛠️ Languages and tools
 <!-- <a href="https://www.arduino.cc" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a> -->
