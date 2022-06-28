@@ -1,7 +1,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-## Hi <img s style="width:50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Irusha](https://github.com/Irusha2022)
+## Hi 👋 I'm [Irusha](https://github.com/Irusha2022)
    
 - 🔭 I’m currently working on [**PCZoneLk.**](github.com/irusha)
 - 🌱 I’m currently learning **Java Script.**
